@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "3aa48b59783c77575d7dccfc",
+  "owner": "usdhgdcf",
+  "repo": "page-9e14420be57718eef0a7deda",
+  "title": "Web3加速器(Web3)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9e14420be57718eef0a7deda",
+      "a": "Web3加速器(Web3)",
+      "b": "",
+      "entity": "Web3加速器(Web3)",
+      "brand": "Web3加速器(Web3)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2a79b4161a1e65797739f6c927adfe1760ca635fb77fefd3a96bbd822fb7b36c",
+      "content": {
+        "keyword1": "Web3加速器(Web3)",
+        "keyword2": "",
+        "primary_entity": "Web3加速器(Web3)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Web3加速器。短句讲清套餐、流量与接入步骤。不堆形容词。下单前核对额度与设备数。",
+          "AI_DESCRIPTION": "Web3加速器。短句讲清套餐、流量与接入步骤。不堆形容词。下单前核对额度与设备数。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#071526;color:#f3ead6;font-family:system-ui,\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;line-height:1.55;font-size:17px}\na{color:#e2a01d;text-decoration:none}\na:hover{text-decoration:underline}\nmain{display:block}\n.hero{min-height:100vh;padding:14vh 8vw 10vh;background:#071526}\n.hero-col{max-width:26rem;border-left:3px solid #e2a01d;padding-left:1.4rem}\n.kicker{color:#e2a01d;font-size:.78rem;letter-spacing:.22em;text-transform:uppercase;margin-bottom:1.1rem}\nh1{font-size:2.35rem;line-height:1.15;font-weight:720;letter-spacing:.02em;margin-bottom:.9rem}\n.hero-col p{margin-bottom:.7rem;color:#d7c9a6;max-width:22rem}\n.hero-col p.lead{font-size:1.05rem;color:#f3ead6}\n.hero nav{margin-top:2rem;display:flex;flex-wrap:wrap;gap:.55rem 1.1rem}\n.hero nav a{font-size:.88rem;letter-spacing:.08em;border-bottom:1px solid #e2a01d;padding-bottom:.12rem;color:#e2a01d;text-decoration:none}\n.wrap{padding:4.5rem 8vw;max-width:72rem}\nh2{font-size:1.45rem;margin-bottom:1.2rem;color:#f3ead6;font-weight:680}\nh2 span{color:#e2a01d;font-size:.8rem;letter-spacing:.16em;display:block;margin-bottom:.35rem;font-weight:600}\nh3{font-size:1.12rem;margin-bottom:.55rem;color:#e2a01d;font-weight:650}\n.guide{background:#0a1c33}\n.steps{max-width:32rem;display:flex;flex-direction:column;gap:1.25rem}\n.step{background:#10243d;border-radius:28px;box-shadow:0 16px 36px rgba(0,0,0,.28);padding:1.25rem 1.4rem 1.3rem}\n.num{font-size:1.6rem;color:#e2a01d;font-weight:700;line-height:1;margin-bottom:.4rem}\n.step p{color:#cfc3a4;font-size:.98rem}\n.plans{background:#071526}\n.stair{display:flex;flex-direction:column;gap:1.4rem;max-width:38rem}\n.card{background:#10243d;border-radius:28px;box-shadow:0 18px 40px rgba(0,0,0,.32);padding:1.45rem 1.5rem 1.55rem}\n.p1{width:86%}\n.p2{width:92%;margin-left:10%;border:1px solid #e2a01d}\n.p3{width:100%;margin-left:20%}\n.tag{display:inline-block;font-size:.72rem;letter-spacing:.12em;color:#071526;background:#e2a01d;border-radius:999px;padding:.15rem .55rem;margin-bottom:.55rem}\n.price{font-size:1.55rem;color:#f3ead6;margin:.2rem 0 .15rem}\n.year{color:#b87d12;font-size:.92rem;margin-bottom:.8rem}\n.card ul{list-style:none;color:#d7c9a6}\n.card li{padding:.28rem 0;border-bottom:1px solid rgba(226,160,29,.15)}\n.card li:last-child{border-bottom:0}\n.clients{background:#0a1c33}\n.clients .card{max-width:30rem}\n.clients p{color:#cfc3a4;margin-bottom:.65rem}\n.faq{background:#071526}\n.groups{display:flex;flex-direction:column;gap:1.5rem;max-width:40rem}\n.group{background:#10243d;border-radius:28px;box-shadow:0 16px 36px rgba(0,0,0,.28);padding:1.4rem 1.5rem}\n.qa{margin-top:1rem}\n.qa + .qa{margin-top:1.05rem;padding-top:1.05rem;border-top:1px solid rgba(226,160,29,.18)}\n.qa h4{font-size:1rem;color:#f3ead6;margin-bottom:.35rem;font-weight:650}\n.qa p{color:#cfc3a4;font-size:.96rem}\nfooter{padding:2rem 8vw 3rem;color:#6d7f93;font-size:.82rem;background:#061221}\n@media(max-width:720px){\n.hero{padding:10vh 6vw 8vh;min-height:auto}\n.hero-col{max-width:100%}\nh1{font-size:1.9rem}\n.wrap{padding:3rem 6vw}\n.p1,.p2,.p3{width:100%;margin-left:0}\n.stair{max-width:100%}\n}\n</style><main>\n<section class=\"hero\">\n<div class=\"hero-col\">\n<p class=\"kicker\">Web3</p>\n<h1>Web3加速器(Web3) · Web3加速器</h1>\n<p class=\"lead\">给链上事务一条干净通路。</p>\n<p>选额度。核设备数。按说明接入。</p>\n<p>少形容词。对用量负责。</p>\n<nav>\n<a href=\"#guide\">使用说明</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</div>\n</section>\n<section class=\"guide\" id=\"guide\">\n<div class=\"wrap\">\n<h2><span>01</span>怎么用</h2>\n<div class=\"steps\">\n<article class=\"step\">\n<p class=\"num\">1</p>\n<h3>对照额度下单</h3>\n<p>先看月流量与同时在线设备。个人从基础版或旗舰版里选。多人协作看团队版。</p>\n</article>\n<article class=\"step\">\n<p class=\"num\">2</p>\n<h3>按函件接入</h3>\n<p>以订单回执或邮件里的步骤为准。本页不附安装包。不额外堆插件。</p>\n</article>\n<article class=\"step\">\n<p class=\"num\">3</p>\n<h3>按月核对用量</h3>\n<p>流量按自然月累计。接近上限就改习惯或改档。规则以订购时告知为准。</p>\n</article>\n</div>\n</div>\n</section>\n<section class=\"plans\" id=\"plans\">\n<div class=\"wrap\">\n<h2><span>02</span>三级套餐</h2>\n<div class=\"stair\">\n<article class=\"card p1\">\n<h3>基础版</h3>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"year\">年付 150 元</p>\n<ul>\n<li>每月 100GB 流量</li>\n<li>同时 3 台设备</li>\n<li>基础内容访问</li>\n<li>标准线路</li>\n</ul>\n</article>\n<article class=\"card p2\">\n<p class=\"tag\">常用</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"year\">年付 350 元</p>\n<ul>\n<li>每月 300GB 流量</li>\n<li>同时 5 台设备</li>\n<li>流媒体访问覆盖更广</li>\n<li>游戏向线路优化</li>\n<li>优先工单</li>\n</ul>\n</article>\n<article class=\"card p3\">\n<h3>团队版</h3>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"year\">年付 850 元</p>\n<ul>\n<li>每月 1000GB 流量</li>\n<li>同时 20 台设备</li>\n<li>更高带宽配额</li>\n<li>可申请定制路由</li>\n<li>专人对接</li>\n</ul>\n</article>\n</div>\n</div>\n</section>\n<section class=\"clients\" id=\"clients\">\n<div class=\"wrap\">\n<h2><span>03</span>客户端去哪找</h2>\n<article class=\"card\">\n<h3>无公开安装包</h3>\n<p>目前没有已核实的官方下载地址。不在此放置链接。</p>\n<p>桌面、手机与浏览器侧的接入方式，一律以你收到的说明为准。</p>\n<p>不要从不明来源取包。版本与系统范围，本页不作额外宣称。</p>\n</article>\n</div>\n</section>\n<section class=\"faq\" id=\"faq\">\n<div class=\"wrap\">\n<h2><span>04</span>常见问题</h2>\n<div class=\"groups\">\n<article class=\"group\">\n<h3>订阅</h3>\n<div class=\"qa\">\n<h4>怎么选档？</h4>\n<p>看流量和设备数。一个人、用量小：基础版。看片与多人轮用：旗舰版。工作室：团队版。</p>\n</div>\n<div class=\"qa\">\n<h4>年付怎么计？</h4>\n<p>基础版 150 元。旗舰版 350 元。团队版 850 元。相当于十个月月费。</p>\n</div>\n<div class=\"qa\">\n<h4>能否退款或开票？</h4>\n<p>退款与票据规则未在此公布。下单前向经办人确认。本页不作承诺。</p>\n</div>\n</article>\n<article class=\"group\">\n<h3>接入</h3>\n<div class=\"qa\">\n<h4>没有下载按钮？</h4>\n<p>对。客户端地址未核实，故不给链接。按回执操作即可。</p>\n</div>\n<div class=\"qa\">\n<h4>流量用尽怎么办？</h4>\n<p>以订购时告知的规则为准。本页不另写限速或中断细节。</p>\n</div>\n</article>\n<article class=\"group\">\n<h3>边界</h3>\n<div class=\"qa\">\n<h4>Web3加速器提供什么？</h4>\n<p>面向 Web3 场景的通路与用量套餐。此处只写档位、步骤与已知缺口。不报节点数，不报时延，不贴评价。</p>\n</div>\n<div class=\"qa\">\n<h4>兼容哪些系统？</h4>\n<p>未提供已核实清单。以你手头说明里的环境为准。</p>\n</div>\n</article>\n</div>\n</div>\n</section>\n</main>\n<footer>Web3加速器 · 仅展示套餐与使用步骤 · 不构成未核实的性能或身份声明</footer>",
+          "hash": "506fceb0ade423b7db62308a3d2efb1231295ebd6206624c5601a3da2ced567e",
+          "seo": {
+            "title": "Web3加速器｜套餐、接入与用量说明",
+            "keywords": "Web3加速器,Web3,套餐,流量,接入说明,常见问题",
+            "description": "Web3加速器。短句讲清套餐、流量与接入步骤。不堆形容词。下单前核对额度与设备数。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "8342",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fangwu88.cn",
+    "host": "p-6d25a79e89.fangwu88.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8353a982ca471b536eec384c84a1d86d791f90a524ef7574e59a2b5b73439b23",
+    "sitemap.xml": "97bd5982369a5105de7cea218b6c535929b517addf9b3021e25910b184afafbf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5dcadcdbd920060c6169c3ef8647a818476a6d532659046e5856cfa621cd47e6",
+    "robots.txt": "fccfeab6c3dfdca899dc44a44c3dcd07e50c7cb2270a9448b2bdddaf9d87ff86",
+    "c4531be2992fdb318645c2508984d048.txt": "e084a5b4d7a61507635ea9142c8ef03c00d8c24a2e8d9d18de4afb882dc7b4c5"
+  },
+  "revision": "f2b540bb67f2674c36814db6f2a97a5780205973b8cf4b0fdb1b9ac08c9a4b92"
+}
